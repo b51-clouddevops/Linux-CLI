@@ -1,4 +1,3 @@
-### Linux-CLI : Hand-writtent notes for linux beginners ;
 
 ### Linux Commands and Options 
 
