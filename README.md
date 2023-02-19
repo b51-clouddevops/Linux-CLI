@@ -86,7 +86,6 @@ cat is a command to read a file in linux.
 
 ```
 $ cat filename 
-
 ```
 
 ### To check the vendor of the operating system.
